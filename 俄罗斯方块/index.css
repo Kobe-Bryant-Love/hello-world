@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+  width: 200px;
+  height: 360px;
+  background-color: black;
+}
+.activity_model {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: cadetblue;
+  box-sizing: border-box;
+  border: 0.3px solid #eeeeee;
+}
+.fiexd_model {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #fefefe;
+  box-sizing: border-box;
+  border: 0.3px solid #333333;
+}
